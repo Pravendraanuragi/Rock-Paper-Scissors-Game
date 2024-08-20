@@ -68,11 +68,3 @@ Image Credits : Wiki Pedia
 
 * 64 Bit Windows / Open Source Linux & its derivatives.
 * Open Source Programming Tools like G++/GCC, C++ IDE (Visual Studio Code or any other).
-
-
-
-## Output
-
-<img src="https://github.com/shreyaschavhan/Rock-Paper-Scissors-Game/blob/main/Images/rock-paper-scissor.gif" width="1080" height="600" />
-
-> A Project by [Shreyas Chavhan](https://github.com/shreyaschavhan)
